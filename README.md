@@ -1,0 +1,2 @@
+# asyntac
+tugas
